@@ -8,14 +8,19 @@ description:
 image: /images/08112016.jpg
 image-sm: /images/08112016_sm.jpg
 ---
-Indiecade Nightgames!
+The New Intimacy
 <ul>
   <li>Actually YOLO marfa tofu shabby chic snackwave. Mumblecore hammock glossier affogato live-edge, tumblr pour-over iceland. Green juice art party flannel meggings, aesthetic kogi actually ramps ugh.</li>
   <li>Church-key crucifix messenger bag health goth</li>
   <li>Try-hard artisan direct trade</li>
   <li>Cold-pressed selfies</li>
 </ul>
-
+<figure>
+  <img src="/images/08112016_3.jpg" alt="Placeholder"/>
+</figure>
+<figure>
+  <img src="/images/08112016_2.jpg" alt="Placeholder"/>
+</figure>
 <ol>
   <li>Actually YOLO marfa tofu shabby chic snackwave. Mumblecore hammock glossier affogato live-edge, tumblr pour-over iceland. Green juice art party flannel meggings, aesthetic kogi actually ramps ugh.</li>
   <li>Church-key crucifix messenger bag health goth</li>
