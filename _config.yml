@@ -6,10 +6,10 @@ paginate_path: "/blog/page-:num"
 google_analytics:
 
 # SEO settings
-title: Bot Party
-description: A game about holding hands
+title: Trophy
+description:
 url: ""
-twitter_username: @phoenixperry
+twitter_username:
 default_img:
 
 # Profile settings

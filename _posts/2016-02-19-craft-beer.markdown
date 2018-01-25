@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Craft Beer"
-date: 2016-02-19
+title: "GDC Alt Ctrl"
+date: 2018-01-23
 categories:
   - Juice
 description:
