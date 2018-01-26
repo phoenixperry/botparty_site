@@ -3,18 +3,13 @@ layout: post
 title: "Incubate Arcade, The New Intimacy"
 date: 2016-08-11
 categories:
-  - Juice
+  - festivals
 description:
 image: /images/08112016.jpg
 image-sm: /images/08112016_sm.jpg
 ---
-The New Intimacy
-<ul>
-  <li>Actually YOLO marfa tofu shabby chic snackwave. Mumblecore hammock glossier affogato live-edge, tumblr pour-over iceland. Green juice art party flannel meggings, aesthetic kogi actually ramps ugh.</li>
-  <li>Church-key crucifix messenger bag health goth</li>
-  <li>Try-hard artisan direct trade</li>
-  <li>Cold-pressed selfies</li>
-</ul>
+b
+We were extremely honoroed to be inculded
 <figure>
   <img src="/images/08112016_3.jpg" alt="Placeholder"/>
 </figure>
