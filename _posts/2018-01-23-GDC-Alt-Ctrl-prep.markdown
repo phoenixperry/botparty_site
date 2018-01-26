@@ -10,8 +10,7 @@ image-sm: /images/title_sm.gif
 ---
 
 <h3>We are gearing up for GDC's Alt Ctrl</h3>
-Knausgaard readymade williamsburg tote bag taxidermy, DIY meditation copper mug. Farm-to-table <a href="#">street art</a> fixie, chambray vice literally four loko vaporware. Pickled taxidermy freegan, affogato pinterest sriracha vexillologist narwhal pour-over. Man braid food truck celiac +1 bicycle rights, semiotics kogi fixie biodiesel woke raw denim quinoa ugh selfies williamsburg. Sartorial af ennui bitters knausgaard, leggings kickstarter slow-carb chia sustainable hexagon. Prism 3 wolf moon occupy ramps wayfarers tumblr narwhal 90's. Woke chambray church-key before they sold out, gochujang fashion axe franzen banh mi pinterest forage kinfolk.
-
+The bots are about to travel! They are very excited for an opportunity to hang out at the GDC and make new friends. 
 <iframe src="https://player.vimeo.com/video/245198686" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p><a href="https://vimeo.com/245198686">Bot Party by Phoenix Perry and Freida Abtan</a> from <a href="https://vimeo.com/phoenixperry">phoenix perry</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
