@@ -3,7 +3,7 @@ layout: post
 title: "Incubate Arcade, The New Intimacy"
 date: 2016-08-11
 categories:
-  - festivals
+  festivals
 description:
 image: /images/08112016.jpg
 image-sm: /images/08112016_sm.jpg
