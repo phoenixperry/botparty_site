@@ -2,8 +2,7 @@
 layout: post
 title: "Now Play This"
 date: 2017-04-07
-categories:
-  - festivals
+categories: festivals
 description:
 image: /images/04072017.jpg
 image-sm: /images/04072017_sm.jpg

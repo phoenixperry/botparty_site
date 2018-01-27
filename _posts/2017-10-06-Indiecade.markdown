@@ -2,8 +2,7 @@
 layout: post
 title: "Indiecade 2017"
 date: 2017-10-06
-categories:
-  - festivals
+categories: festivals
 description:
 image: /images/10062017.jpg
 image-sm: /images/10062017_sm.jpg

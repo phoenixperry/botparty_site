@@ -2,8 +2,7 @@
 layout: post
 title: "We Throw Switches"
 date: 2017-12-03
-categories:
-  - festivals
+categories: festivals
 description:
 image: /images/12032017.jpg
 image-sm: /images/12032017_sm.jpg

@@ -2,8 +2,7 @@
 layout: post
 title: "GDC Alt Ctrl"
 date: 2018-01-23
-categories:
-  - festivals
+categories: festivals
 description:
 image: /images/title.gif
 image-sm: /images/title_sm.gif
