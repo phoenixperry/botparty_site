@@ -27,37 +27,37 @@ I made everything as easy as possible to edit. Most things can be found in the `
 ### _config.yml
 
 #### Site Settings
-    email:
+    email: human@playbotparty.com
     baseurl: ""
-    paginate: 5
+    paginate: 6
     paginate_path: "/blog/page-:num"
     google_analytics: UA—XXXXXXXX-X
 
-* ````email```` - Your email for the contact card and the footer
+* ````email```` - human@playbotparty.com
 * ````baseurl```` - Path of blog if adding this on to another website
 * ````paginate```` - Number of blog posts per page
 * ````paginate_path```` - URL structure of paginated pages
 * ````google_analytics```` - Option field to replace with correct Google Analytics code
 
 #### SEO Settings
-    title:
-    description:
-    url: ""
-    twitter_username:
-    default_img:
+    title: Bot Party
+    description: A sound game to hold hands in. Bot Party is a physical sound creation game.
+    url: "http://www.playbotparty.com"
+    twitter_username:@playbotparty
+    default_img: social.jpg
 
 * ````title```` - Bot Party
-* ````description```` - A physical hardware game about holding hands in groups.
+* ````description```` - A sound game to hold hands in.
 * ````url```` - http://www.playbotparty.com
-* ````twitter_username```` - phoenixperry
-* ````default_img```` - Image that will appear when posting links on social networks
+* ````twitter_username```` - playbotparty
+* ````default_img```` - social.jpg
 
 #### Profile Settings
-    name:
-    profile_img:
-    profile:
-    social:
-      github:
+    name: Bot Party
+    profile_img: /images/social.jpg
+    profile: Play Bot Party
+    social: @playbotparty
+    github:
 
 * ````name```` - Full name for SEO purposes
 * ````profile_img```` - Image for the profile card (size to 2000x1200px)
