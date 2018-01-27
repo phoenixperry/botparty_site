@@ -8,6 +8,12 @@ description:
 image: /images/title.gif
 image-sm: /images/title_sm.gif
 ---
+### What is Bot Party?
+We made a little video for you to explain.
+
+<iframe src="https://player.vimeo.com/video/245198686" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/245198686">Bot Party by Phoenix Perry and Freida Abtan</a> from <a href="https://vimeo.com/phoenixperry">phoenix perry</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
 
 The bots are about to travel to SF! They are very excited for an opportunity to hang out at the GDC and make new friends at [Alt Ctrl](http://www.gdconf.com/events/altctrlgdc.html). Over the last year, we've been prototyping and learning from our players what they want in game and for GDC, we hope to have a few new, exciting features to try out.
 
@@ -16,9 +22,6 @@ The bots are about to travel to SF! They are very excited for an opportunity to 
 * New sounds for new characters   
 * Improved casing
 * New Design
-
-<iframe src="https://player.vimeo.com/video/245198686" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/245198686">Bot Party by Phoenix Perry and Freida Abtan</a> from <a href="https://vimeo.com/phoenixperry">phoenix perry</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 We have expanded our team to include new members. We welcome Helen Steer and Emily Roderick onto the project. After this exhibition, our goal is to go to Kickstarter with a brand new version of our game. In many ways, this show represents the end of an era for the bots and the rise of a new plan for creating an iOS connected game. Spoilers!
 
