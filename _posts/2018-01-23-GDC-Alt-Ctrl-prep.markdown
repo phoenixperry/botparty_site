@@ -7,7 +7,6 @@ description:
 image: /images/title.gif
 image-sm: /images/title_sm.gif
 ---
-### What is Bot Party?
 We made a little video for you to explain.
 
 <iframe src="https://player.vimeo.com/video/245198686" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
