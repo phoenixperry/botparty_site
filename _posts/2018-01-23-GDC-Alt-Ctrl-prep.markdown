@@ -16,8 +16,8 @@ The bots are about to travel to SF! They are very excited for an opportunity to 
 * Improved casing
 * New Design
 
-We have expanded our team to include new members. We welcome Helen Steer and Emily Roderick onto the project. After this exhibition, our goal is to go to Kickstarter with a brand new version of our game. In many ways, this show represents the end of an era for the bots and the rise of a new plan for creating an iOS connected game. Spoilers!
-
 <figure>
   <img src="/images/01252018.jpg" alt="Blue Bots"/>
 </figure>
+
+We have expanded our team to include new members. We welcome Helen Steer and Emily Roderick onto the project. After this exhibition, our goal is to go to Kickstarter with a brand new version of our game. In many ways, this show represents the end of an era for the bots and the rise of a new plan for creating an iOS connected game. Spoilers!
