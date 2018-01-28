@@ -10,7 +10,7 @@ image-sm: /images/10062017_sm.jpg
 
 ### Indiecade Nightgames!
 
-We are on our way to LA for Indiecade! ( ﾟ▽ﾟ)/ We are being included in Night Games and [Merrill Audio](http://www.merrillaudio.net/) is sponsoring us with high end, ultra portable snazzy speakers designed to cut through the noise of a large crowd.
+We are on our way to LA for [Indiecade](http://www.indiecade.com/games/selected/bot-party)! ( ﾟ▽ﾟ)/ We are being included in Night Games and [Merrill Audio](http://www.merrillaudio.net/) is sponsoring us with high end, ultra portable snazzy speakers designed to cut through the noise of a large crowd.
 
 We are intrigued to see what an American audience does with the game. So far, this game has only been played with people in the UK. Given cultural taboos around touching strangers, there’s always a bit of fear people have when first getting started in the game. We expect Californians to be much more receptive to hugs.
 
