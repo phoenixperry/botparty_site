@@ -15,7 +15,7 @@ default_img: /images/social_1.jpg
 # Profile settings
 name: Bot Party
 profile_img: /images/social_1.jpg
-profile: Bot Party is part of a larger research project by Phoenix Perry into physical play, prosocial behavior through touch and intimacy. Game Design by Phoenix Perry, Sound Design by Freida Abtan, Magic by Helen Steer. 
+profile: Bot Party is part of a larger research project by Phoenix Perry into physical play, prosocial behavior through touch and intimacy. Game Design by Phoenix Perry and Charlie Anne Page. Sound Engineer by Freida Abtan. Sound Designer, Brian Jackson. Bot Development and AI Diplomatic Relations by Charlie Ann Page. Engineering by Phoenix Perry & Helen Steer. Jr Develeoper, Emily Roderick. Graphic Design by Mimi Sotudeh.  Magic by Helen Steer. 
 social:
   github: https://github.com/phoenixperry/bot_party
   twitter: http://twitter.com/playbotparty
