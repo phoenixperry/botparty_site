@@ -19,7 +19,7 @@ We made a little video for you to explain.
 #### Instructions:
 Bot Party in an interactive sound experience for humans. The bots have a problem. They have no way to communicate with their friends. Can you help? They need you to touch another human holding a bot. Through you the bots use the proprietary bot to skin to skin to bot communication protocol (BSSB) to send encoded secret messages to each other. Hold hands with other players to get the bot sound spectacular started!
 
-[Our design is documented here. If you are interested in learning more, here's the code and hardware design.]  (https://github.com/phoenixperry/bot_party)
+Our design is documented here. [For educational purposes only, here's code and hardware design.](https://github.com/phoenixperry/bot_party)
 
 
  True This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>. This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>. This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>. Bot Party Bot Party Bot Party
